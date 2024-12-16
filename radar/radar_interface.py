@@ -1,5 +1,5 @@
 import serial
-from parser_mmw_demo import parser_one_mmw_demo_output_packet
+from radar.parser_mmw_demo import parser_one_mmw_demo_output_packet
 
 class RadarInterface:
     def __init__(self, port, baudrate):

@@ -10,8 +10,8 @@ from collections import defaultdict
 
 # Configuration
 BAUD_RATE = 115200
-PORT1 = "COM30"  # Station 1 now on COM30
-PORT2 = "COM27"  # Station 2 now on COM27
+PORT1 = "COM12"  # Station 1 now on COM30
+PORT2 = "COM34"  # Station 2 now on COM27
 STATION1_POSITION = (0, 0)    # Station 1 position (X1, Y1)
 STATION2_POSITION = (10, 0)   # Station 2 position (X2, Y2)
 TRAIL_DURATION = 3            # Trail duration in seconds
