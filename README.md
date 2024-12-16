@@ -27,9 +27,6 @@ The **Parking Lot Intruder Detection System** is a Python-based solution designe
 - **Reset Mechanism:** Automatically resets intruder counts and annotations when a tagged vehicle is detected within the parking area.
 - **Configurable Parameters:** Easily adjust thresholds, COM ports, parking area coordinates, and other settings to fit different environments.
 
-## Architecture
-
-![System Architecture](https://via.placeholder.com/800x400.png?text=System+Architecture+Diagram)
 
 1. **BLE Stations:**
    - Two BLE stations receive signals from BLE tags attached to vehicles.
