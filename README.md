@@ -1,7 +1,4 @@
 # Parking Lot Intruder Detection System
-
-![Parking Intruder Detection](https://via.placeholder.com/800x200.png?text=Parking+Lot+Intruder+Detection+System)
-
 ## Table of Contents
 
 - [Overview](#overview)
