@@ -11,7 +11,6 @@ from radar_ui import RadarUI
 
 RADAR_CONFIG = "./tdm/profile_2d_3AzimTx.cfg"
 
-CONFIG_FILE = "config.json"
 BAUD_RATE_CON = 115200
 BAUD_RATE_DAT = 921600
 
