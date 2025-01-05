@@ -40,12 +40,6 @@ The **Parking Lot Intruder Detection System** is a Python-based solution designe
    - Real-time plotting of BLE-tagged positions and radar detections.
    - Intruder detection logic based on the cumulative count of unique untagged points within the parking area.
 
-## Architecture
-
-![Architecture Diagram](path_to_architecture_diagram.png)
-
-*Provide a diagram illustrating how BLE stations, radar, and the central processing unit interact.*
-
 ## Prerequisites
 
 - **Python Version:** Python 3.7 or higher
