@@ -43,7 +43,7 @@ The **Parking Lot Intruder Detection System** is a Python-based solution designe
 ## Prerequisites
 
 - **Python Version:** Python 3.7 or higher
-- **Operating System:** Windows, Linux, or macOS
+- **Operating System:** Software was used with Windows os only, but feel free to modify it to use on other os
 
 ### Python Libraries
 
